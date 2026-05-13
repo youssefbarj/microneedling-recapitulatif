@@ -1,30 +1,18 @@
-# Make it interactive
+# Récapitulatif — LE MICRONEEDLING Slide 9
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+**Course:** LE MICRONEEDLING  
+**Slide:** 9  
+**Live URL:** https://microneedling-recapitulatif.edtechiecorp.com  
+**Stack:** Next.js · Tailwind CSS · TypeScript · GitHub Pages  
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/youssefs-projects-8781ee98/v0-make-it-interactive-jk)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/hIFEvOJLLLo)
+## What this slide does
 
-## Overview
+Summary and recap slide for the microneedling course, consolidating all the key concepts, techniques, and safety protocols covered throughout the module. At slide 9, learners are near the end of the course and use this content to reinforce their learning before completing any final assessment. The recap format helps with retention by presenting information in a structured, condensed format.
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+## Screenshot
 
-## Deployment
+![microneedling-recapitulatif](./screenshot.png)
 
-Your project is live at:
+## Usage
 
-**[https://vercel.com/youssefs-projects-8781ee98/v0-make-it-interactive-jk](https://vercel.com/youssefs-projects-8781ee98/v0-make-it-interactive-jk)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/hIFEvOJLLLo](https://v0.dev/chat/projects/hIFEvOJLLLo)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+This slide is embedded as an iframe inside Coassemble at the live URL above. DNS is managed via Cloudflare (`edtechiecorp.com`). To update the slide, push to the `main` branch — GitHub Actions will rebuild and redeploy automatically.
