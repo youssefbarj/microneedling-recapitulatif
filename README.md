@@ -8,7 +8,7 @@
 
 ## Screenshot
 
-![microneedling-recapitulatif](https://github.com/youssefbarj/microneedling-recapitulatif/raw/main/screenshot.png)
+![microneedling-recapitulatif](https://raw.githubusercontent.com/youssefbarj/microneedling-recapitulatif/main/screenshot.png)
 
 ## What this slide does
 
